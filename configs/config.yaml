@@ -1,0 +1,5 @@
+screen_height: 1080
+screen_width: 1920
+game_name: "SHOOTING"
+Player: "images/space.png"
+Background: "images/Background.jpg"
